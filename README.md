@@ -2,11 +2,11 @@
 
 ### Author: Mark Duenas
 
-[Test Reports](https://github.com/MarkDuenas/basic-auth/actions)
+[Test Reports](https://github.com/MarkDuenas/bearer-auth/actions)
 
-[Deployed Link](https://basic-auth-md.herokuapp.com/)
+[Deployed Link](https://bearer-auth-md.herokuapp.com/)
 
-[Pull Req](https://github.com/MarkDuenas/basic-auth/pull/1)
+[Pull Req](https://github.com/MarkDuenas/bearer-auth/pull/1)
 
 
 ## Set up
